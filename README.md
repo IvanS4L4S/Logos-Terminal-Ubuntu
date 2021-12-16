@@ -1,4 +1,5 @@
-# Logos-Terminal-Ubuntu
+# Logos-Terminal-LINUX
+
 paso 1: descargar los archivos logoterminal* elegir a gusto
 paso 2: copiarlo en la carperta personal
 paso 3: Mostrar los archivos ocultos de nuestra carperpeta personal
