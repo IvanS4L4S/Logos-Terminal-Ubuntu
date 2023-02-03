@@ -1,4 +1,4 @@
 cd /usr/local/bin
-sudo  nano <name_file>
-sudo chmod 777 <name_file>
+sudo  nano script_bash
+sudo chmod 777 script_bash
 cd
